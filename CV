@@ -1,0 +1,81 @@
+<html>
+<h1 style="color:red" align="center" >RESUME</h1>
+<div>
+<h4>BOLLEDULA AARYA RAJAN </h4>
+<div><b style="color:purple" >Email id &emsp;:</b> aaryarajan12@gmail.com </div>
+<div><b style="color:purple" >Mobile No :</b> 9063632121 </div>
+<div><b style="color:purple" >Address&emsp;:</b> House no : 41-64S,<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;Sai Baba Nagar,<br>
+&emsp;&emsp;&emsp;&emsp;&emsp;Kurnool,Andhra Pradesh</div>
+<hr style="height:5px;border-width:3;color:pink;background-color:pink">
+<div>
+<h4 style="color:blue;">EDUCATION AND QUALIIFICATIONS:</h4>
+<table border="2" cellpadding="5" >
+<tr>
+<th>Qualifcation</th>
+<th>Grade</th>
+<th>Course</th>
+<th> Place</th>
+<th>Name of the Institution</th>
+<th>Year of completion</th>
+</tr>
+<tr>
+<td> Graduating Bachelor in technology(B.Tech) </td>
+<td> 9.04</td>
+<td> Computer Science</td>
+<td> G.Pulla Reddy engineering College(Autonomous)</td>
+<td> Kurnool</td>
+<td> 2024 </td>
+</tr>
+<tr>
+<td> Intermediate</td>
+<td> 9.75 </td>
+<td> MPC </td>
+<td> Narayana Junior college </td>
+<td> Kurnool </td>
+<td> 2020 </td>
+</tr>
+<tr>
+<td> 10<sup>th</sup> Standard </td>
+<td> 10 </td>
+<td> SSC </td>
+<td> Sister Stanislas English medium School </td>
+<td> Kurnool </td>
+<td> 2018 </td>
+<tr>
+</table>
+</div>
+<hr style="height:5px;border-width:3;color;pink;background-color:pink">
+<h4 style="color:blue;">CAREER OBJECTIVES</h4>
+<div> Want to be the part of a software developer organization and utilize my
+knowledge,<br>Skills
+and expertise to contribute<br> towards organization and professional
+brilliance and to learn more with the passage of time from all<br>
+types of situations and circumstances.</div>
+
+<div>
+<hr style="height:5px;border-width:3;color:pink;background-color:pink">
+<h4 style="color:blue;">TECHNICAL SKILLS</h4>
+<div>
+<ul><li><a> C Language </a></li><li><a>Ms Word </a></li><li><a> Basics in Python </a></li> <li>
+<a>Java </a></li> <li><a> Basics in HTML</a></li><li><a> Advanced data structures </a></li>
+</div>
+<div>
+<hr style="height:5px;border-width:3;color;pink;background-color:pink">
+<h4 style="color:blue;">HOBBIES AND INTERESTS </h4>
+<ul>
+<li><a> Watching movies </a></li> <li><a> Listening to music and singing</a></li> <li><a> Sports
+</a></li><li><a> Dancing </a></li>
+</div>
+<div>
+<hr style="height:5px;border-width:3;color:pink;background-color:pink">
+<h4 style="color:blue;">PERSONAL DETAILS</h4>
+<div><b style="color:purple" >Father's Name&emsp;:</b>B A Prasad Rao</div>
+<div><b style="color:purple" >Mother's Name&emsp;:</b>B Mallika </div>
+<div><b style="color:purple" >Date of Birth&emsp;&emsp;:</b> 22 <sup> nd </sup> Decemeber
+2002 </div>
+<div><b style="color:purple" >Mobile No&emsp;&emsp;&emsp;:</b> 9063632121 </div>
+<div><b style="color:purple" >Languages Known:</b> Telugu,Hindi,English </div>
+<div><b style="color:purple" >Age&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;:</b> 19</div>
+<div align="right"> Place : Kurnool<br> Date : 22-08-2022 </div>
+</html>
