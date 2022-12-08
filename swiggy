@@ -1,0 +1,303 @@
+swiggy.html
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Swiggy Home page</title>
+ <style>
+ *{
+ margin:0;
+ padding :0;
+ text-decoration:none;
+ color:white;
+ border: none;
+ }
+ html
+ {
+ background-color:orange;
+ }
+ .header
+ {
+ font-size:40px;
+ text-align:center;
+ margin:20px;
+ }
+ .content{
+ height:100vh;
+ width:100%;
+ background-image:url("food1.png");
+ }
+ button
+ {
+ background-color:#00c04b;
+ margin:20px;
+ font-size: 16px;
+ padding: 15px 32px;
+ text-align: center;
+ }
+ .links
+ {
+ display:flex;
+ flex-direction:row;
+ justify-content:center;
+ align-items:center;
+ }
+ .content{
+ background: url(food1.png);
+ background-repeat: no-repeat;
+ background-size: 1550px 800px;
+ display:flex;
+ flex-direction:column;
+ justify-content:center;
+ align-items:center;
+ }
+ </style>
+ </head>
+ <body>
+ <div class="header">
+ <h2>SWIGGY</h2>
+ </div>
+ <div class="links">
+ <button type="button" class="button"><a href="about.html">ABOUT US</a></button>
+ <button type="button" class="button"><a href="services.html">OUR
+SERVICES</a></button>
+ <button type="button" class="button"><a href="contactus.html">CONTACT
+US</a></button>
+ </div>
+ <div class="content">
+ <h2 style="font-size:50px">ORDER NOW !</h2> 
+ </div>
+ </body>
+</html>aboutus.html
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Swiggy ABOUT US</title>
+ <style>
+ *{
+ margin:0;
+ padding :0;
+ text-decoration:none;
+ color:white;
+ }
+ html
+ {
+ background-color:orange;
+ }
+ .about
+ {
+ display:flex;
+ flex-direction:row;
+ justify-content:center;
+ align-items:center;
+ color: #cb202d;
+ margin-top: 30px;
+ }
+ .header
+ {
+ font-size:40px;
+ text-align:center;
+ width:100%;
+ }
+ h4{
+ text-align: justify;
+ text-justify: auto;
+ margin-right: 110px;
+ margin-bottom: 40px;
+ color: black;
+ }
+ </style>
+ </head>
+ <body>
+ <div class="header">
+ <h2>SWIGGY</h2>
+ </div>
+ <div class="about">
+ <h4 style="line-height:25px;background-color: white; border-radius: 20px;padding:
+15px;">
+ <div style="color:black;text-align: center;font-size: 30px;margin: 20px;">ABOUT US</div>
+Launched in 2010, Our technology platform connects customers, restaurant partners<br>
+and delivery partners, serving their multiple needs. Customers use our platform<br>
+to search and discover restaurants, read and write customer generated reviews and view <br>
+and upload photos, order food delivery, book a table and make payments while dining-out at
+<br>restaurants. On the other hand, we provide restaurant partners with industry-specific<br>
+marketing tools which enable them to engage and acquire customers to grow their business
+while <br>also providing a reliable and efficient last mile delivery service. We also operate a
+one-stop <br> procurement solution, Hyperpure, which supplies high quality ingredients and
+kitchen products to <br>restaurant partners. We also provide our delivery partners with
+transparent and flexible<br> earning opportunities.</h4>
+ <img src="about.png" height="200px">
+ </div>
+ </body>
+</html>services.html
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Swiggy Services</title>
+ <style>
+ *{
+ margin:0;
+ padding :0;
+ text-decoration:none;
+ color:white;
+ border: none;
+ }
+ html
+ {
+ background-color:orange;
+ }
+ .header
+ {
+ font-size:30px;
+ text-align:center;
+ margin:20px;
+ }
+
+ img{
+ height:150px;
+ width:200px;
+ }
+ .services{
+ display:flex;
+ flex-direction:row;
+ justify-content:space-around;
+ align-items:center;
+ }
+ </style>
+ </head>
+ <body>
+ <div class="header">
+ <h2>OUR SERVICES</h2>
+ </div>
+ <div class="services">
+ <div>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Barbieri_-
+_ViaSophia25668.jpg">
+ <h4>Find The Nearby<br>restaurants easily</h4>
+ </div>
+ <div>
+ <img src="https://images.unsplash.com/photo-1600891964599-
+f61ba0e24092?ixlib=rb1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cmVzdGF1cmFudCUyMGZvb2R8ZW5
+8MHx8MHx8&w=1000&q=80">
+ <h4>Delicious and tasty food</h4>
+ </div>
+ <div>
+ <img src="https://image.shutterstock.com/image-illustration/order-online-conceptillustration-design-260nw-123535753.jpg">
+ <h4>Order Online</h4>
+ </div>
+ </div>
+ <br>
+ <div class="services" style="margin-top:30px">
+ <div>
+ <img src="https://png.pngtree.com/png-vector/20210527/ourlarge/pngtree-cash-ondelivery-truck-icon-png-image_3373084.jpg">
+ <h4>Cash On Delivery</h4>
+ </div>
+ <div>
+ <img src="https://image.shutterstock.com/image-vector/discount-ribbon-round-redsign-260nw-1509853091.jpg">
+ <h4>Amazing Discounts</h4>
+ </div>
+ <div>
+ <img src="https://png.pngtree.com/element_our/png/20180921/a-young-boy-ridingan-orange-delivery-scooter-png_105782.jpg">
+ <h4>Instant Delivery</h4>
+ </div
+ </div>
+ </body>
+</html>
+contactus.html
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Swiggy Contact US</title>
+ <style>
+ *{
+ margin:0;
+ padding :0;
+ text-decoration:none;
+ color:black;
+ border: none;
+ }
+ html
+ {
+ background-color:orange;
+ }
+ .header
+ {
+ font-size:40px;
+ text-align:center;
+ margin:20px;
+ }
+ input
+ {
+ height: 25px;
+ }
+ form
+ {
+ display:flex;
+ flex-direction:column;
+ justify-content:center;
+ align-items:center;
+ margin-top:30px;
+ margin-left:500px;
+ margin-right:500px;
+ border-radius:20px;
+ line-height: 40px;
+ font-size:20px;
+ }
+ .content{
+ display:flex;
+ flex-direction:row;
+ justify-content:center;
+ align-items:center;
+ margin-right: 100px;
+ }
+ button
+ {
+ background-color:#00c04b;
+ margin:20px;
+ font-size: 16px;
+ padding: 10px 15px;
+ text-align: center;
+ }
+ </style>
+ </head>
+ <body>
+ <div class="header">
+ <h2>SWIGGY</h2>
+ </div>
+ <h2 style="text-align:center">CONTACT US</h2>
+ <div>
+ <form>
+ <div>
+ <label>First name:</label>
+ <input type="text" placeholder="Enter Full Name"><br>
+ <label >Full Name:</label>
+ <label >Mobile no :</label>
+ <input type="tel" placeholder="Enter your mobile no"><br>
+ <label >Email-ID :</label>
+ <input style="margin-bottom:20px;" type="text" placeholder="Enter your email-id"
+><br>
+ <textarea style="height:80px;width:250px;color:black;" placeholder="Write Your
+Feedback Here"></textarea>
+ <div>
+ <button type="button" class="button"><a href="">SUBMIT YOUR
+FEEDBACK</a></button>
+ <div>
+ </form>
+ </div>
+ <div class="content">
+ <div style="margin-right:45px;">
+ <div>Email: swiggy@gmail.com</div>
+<div>Phone Number : 88997799</div>
+ </div>
+ <div>
+ <h3 style="margin-bottom: 15px;" > Social Media Links </h3>
+ <a href="https://www.instagram.com/zomato/?hl=en"> <img style="marginright:10px" width="35" height="35" src="https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcQs2BvTgTIe9lC5vmCWljIrkwo9uEA9mSqhfq8wCtk
+&s"></a>
+ <a href="https://www.facebook.com/zomato/"> <img style="margin-right:10px"
+width="35" height="35" src="https://1000logos.net/wp-content/uploads/2021/04/Facebooklogo.png"></a>
+ <a href="https://twitter.com/zomato/"> <img style="margin-right:10px" width="35"
+height="35"
+src="https://static.vecteezy.com/system/resources/thumbnails/006/057/998/small/twitter-logoon-transparent-background-free-vector.jpg"></a>
+ </div>
+ </div>
+ </body>
+</html>
