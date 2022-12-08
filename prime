@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Swiggy Contact US</title>
+ <style>
+ *{
+ margin:0;
+ padding :0;
+ text-decoration:none;
+ color:black;
+ border: none;
+ }
+ html
+ {
+ background-color:orange;
+ }
+ .header
+ {
+ font-size:40px;
+ text-align:center;
+ margin:20px;
+ }
+ input
+ {
+ height: 25px;
+ }
+ form
+ {
+ display:flex;
+ flex-direction:column;
+ justify-content:center;
+ align-items:center;
+ margin-top:30px;
+ margin-left:500px;
+ margin-right:500px;
+ border-radius:20px;
+ line-height: 40px;
+ font-size:20px;
+ }
+ .content{
+ display:flex;
+ flex-direction:row;
+ justify-content:center;
+ align-items:center;
+ margin-right: 100px;
+ }
+ button
+ {
+ background-color:#00c04b;
+ margin:20px;
+ font-size: 16px;
+ padding: 10px 15px;
+ text-align: center;
+ }
+ </style>
+ </head>
+ <body>
+ <div class="header">
+ <h2>SWIGGY</h2>
+ </div>
+ <h2 style="text-align:center">CONTACT US</h2>
+ <div>
+ <form>
+ <div>
+ <label>First name:</label>
+ <input type="text" placeholder="Enter Full Name"><br>
+ <label >Full Name:</label>
+ <label >Mobile no :</label>
+ <input type="tel" placeholder="Enter your mobile no"><br>
+ <label >Email-ID :</label>
+ <input style="margin-bottom:20px;" type="text" placeholder="Enter your email-id"
+><br>
+ <textarea style="height:80px;width:250px;color:black;" placeholder="Write Your
+Feedback Here"></textarea>
+ <div>
+ <button type="button" class="button"><a href="">SUBMIT YOUR
+FEEDBACK</a></button>
+ <div>
+ </form>
+ </div>
+ <div class="content">
+ <div style="margin-right:45px;">
+ <div>Email: swiggy@gmail.com</div>
+<div>Phone Number : 88997799</div>
+ </div>
+ <div>
+ <h3 style="margin-bottom: 15px;" > Social Media Links </h3>
+ <a href="https://www.instagram.com/zomato/?hl=en"> <img style="marginright:10px" width="35" height="35" src="https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcQs2BvTgTIe9lC5vmCWljIrkwo9uEA9mSqhfq8wCtk
+&s"></a>
+ <a href="https://www.facebook.com/zomato/"> <img style="margin-right:10px"
+width="35" height="35" src="https://1000logos.net/wp-content/uploads/2021/04/Facebooklogo.png"></a>
+ <a href="https://twitter.com/zomato/"> <img style="margin-right:10px" width="35"
+height="35"
+src="https://static.vecteezy.com/system/resources/thumbnails/006/057/998/small/twitter-logoon-transparent-background-free-vector.jpg"></a>
+ </div>
+ </div>
+ </body>
+</html>
