@@ -1,98 +1,113 @@
+home.html
 <!DOCTYPE html>
 <html>
- <head>
- <title>Swiggy Contact US</title>
- <style>
- *{
- margin:0;
- padding :0;
- text-decoration:none;
- color:black;
- border: none;
- }
- html
- {
- background-color:orange;
- }
- .header
- {
- font-size:40px;
- text-align:center;
- margin:20px;
- }
- input
- {
- height: 25px;
- }
- form
- {
- display:flex;
- flex-direction:column;
- justify-content:center;
- align-items:center;
- margin-top:30px;
- margin-left:500px;
- margin-right:500px;
- border-radius:20px;
- line-height: 40px;
- font-size:20px;
- }
- .content{
- display:flex;
- flex-direction:row;
- justify-content:center;
- align-items:center;
- margin-right: 100px;
- }
- button
- {
- background-color:#00c04b;
- margin:20px;
- font-size: 16px;
- padding: 10px 15px;
- text-align: center;
- }
- </style>
- </head>
- <body>
- <div class="header">
- <h2>SWIGGY</h2>
+<head>
+<title>HOME</title>
+</head>
+<body bgcolor="skyblue" align="center">
+<img
+src="https://static.wikia.nocookie.net/iknowwhatyoudidlastsummer/images/d/db/Amazon_Prime
+_Video_Logo.jpg/revision/latest?cb=20210917231339" height="100" width="200">
+<h1>Welcome to Prime Video</h1>
+<h2>Join Prime to watch the latest movies, TV shows<br>and award-winning Amazon
+Originals</h2><br><br>
+<button><a href="about.html" target="blank">ABOUT US</a></button><br><br><br>
+<button><a href="contact.html"target="blank">CONTACT US</a></button><br><br><br>
+<button><a href="services.html" target="blank">OUR SERVICES</a></button><br><br><br>
+<h1>Your favorite channels all in one place</h1>
+<h2>With Prime Video Channels, find shows and movies from your favorite channels all in one
+place.<br>Enjoy with an add-on subscription to Channels of your choice</h2>
+</body>
+</html>
+about.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>ABOUT</title>
+<style>
+body, html {
+ height: 100%;
+ margin: 0;
+}
+.bg {
+ background-image: url("https://cdn.pastemagazine.com/www/articles/2020/01/02/prime-videologo.png");
+ height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+</style>
+</head>
+<body>
+ <div class="bg">
+ <br><br><br><br><center><h2><font color="white">We entertain and inspire the world one
+story at a time. <br>
+All with ease of finding what you love to watch in one
+place</h2></center><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><b
+r><br><br>
+ <center><h3>Amazon Prime Video is a video on-demand over-the-top streaming and rental
+service of Amazon offered as a standalone service or as part of Amazon's Prime subscription.
+<br>The service primarily distributes films and television series produced by Amazon Studios
+and MGM Holdings or licensed to Amazon, as Amazon Originals,<br>with the service also
+hosting content from other providers, content add-ons, live sporting events, and video rental and
+purchasing services.</h3>
+ <h2><font color="skyblue">Video quality</font></h2>
+ <h3>Depending on the device, Amazon supports up to 4K (UHD) and high-dynamic-range
+(HDR) streaming. UHD/HDR rolled out with its original content. <br>Other titles support 1080p
+(HD) streaming with 5.1 Dolby Digital or Dolby Digital Plus audio, with Dolby Atmos coming
+soon to certain titles. <br>For titles available for purchase (and not included in a customer's
+Amazon Prime subscription), the HD option is often offered at an additional
+price.</h3></center>
  </div>
- <h2 style="text-align:center">CONTACT US</h2>
- <div>
+</body>
+</html>
+services.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>SERVICES</title>
+</head>
+<body bgcolor="skyblue" align="center">
+<img
+src="https://static.wikia.nocookie.net/iknowwhatyoudidlastsummer/images/d/db/Amazon_Prime
+_Video_Logo.jpg/revision/latest?cb=20210917231339" height="100" width="200">
+<h3>Access to exclusive Amazon Originals, Blockbuster Bollywood Movies & Regional
+Movies. <br>Watch Unlimited Movies, TV Shows & Get Free Shipping Benefits with Amazon
+Prime Watch Party.<br>Types: Bollywood Movies, Hollywood Movies, US TV & Kids Shows.
+</h3>
+<h3 style="color:Blue;">Amazon Originals</h3>
+<img src="https://expertreviews.bcdn.net/sites/expertreviews/files/styles/er_main_wide/public/2019/06/top-10-movies-on-amazonprime-video.jpg?itok=qd6gE9Sc" height="300" width="700">
+<h3 style="color:Blue;">Amazon Rentals</h3>
+<img src="https://img.republicworld.com/republicprod/stories/promolarge/xhdpi/zydqhfaodgb36pxc_1651227804.jpeg" height="300"
+width="700">
+</body>
+</html>
+contact.html
+<!DOCTYPE html>
+<html>
+<head>
+<title>CONTACT</title>
+</head>
+<body bgcolor="yellow" align="center">
+ <h2>Contact Us</h2>
  <form>
- <div>
- <label>First name:</label>
- <input type="text" placeholder="Enter Full Name"><br>
- <label >Full Name:</label>
- <label >Mobile no :</label>
- <input type="tel" placeholder="Enter your mobile no"><br>
- <label >Email-ID :</label>
- <input style="margin-bottom:20px;" type="text" placeholder="Enter your email-id"
-><br>
- <textarea style="height:80px;width:250px;color:black;" placeholder="Write Your
-Feedback Here"></textarea>
- <div>
- <button type="button" class="button"><a href="">SUBMIT YOUR
-FEEDBACK</a></button>
- <div>
+ <label for="fname">First Name</label>
+ <input type="text" id="fname" name="firstname" placeholder="Your name. "><br><br>
+ <label for="lname">Last Name</label>
+ <input type="text" id="lname" name="lastname" placeholder="Your last name.
+"><br><br>
+ <label for="country">Country</label>
+ <select id="country" name="country">
+<option value="india">India</option>
+ <option value="australia">Australia</option>
+ <option value="canada">Canada</option>
+ <option value="usa">USA</option>
+ </select>
+ <br><br>
+<label for="subject">Subject</label>
+ <textarea id="subject" name="subject" placeholder="Write something. "
+style="height:25px"></textarea><br><br>
+<input type="submit" value="Submit">
  </form>
- </div>
- <div class="content">
- <div style="margin-right:45px;">
- <div>Email: swiggy@gmail.com</div>
-<div>Phone Number : 88997799</div>
- </div>
- <div>
- <h3 style="margin-bottom: 15px;" > Social Media Links </h3>
- <a href="https://www.instagram.com/zomato/?hl=en"> <img style="marginright:10px" width="35" height="35" src="https://encryptedtbn0.gstatic.com/images?q=tbn:ANd9GcQs2BvTgTIe9lC5vmCWljIrkwo9uEA9mSqhfq8wCtk
-&s"></a>
- <a href="https://www.facebook.com/zomato/"> <img style="margin-right:10px"
-width="35" height="35" src="https://1000logos.net/wp-content/uploads/2021/04/Facebooklogo.png"></a>
- <a href="https://twitter.com/zomato/"> <img style="margin-right:10px" width="35"
-height="35"
-src="https://static.vecteezy.com/system/resources/thumbnails/006/057/998/small/twitter-logoon-transparent-background-free-vector.jpg"></a>
- </div>
- </div>
- </body>
+</body>
 </html>
