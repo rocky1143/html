@@ -57,3 +57,29 @@ onclick="validation()" form target="_blank"></a>
 </form>
 </body>
 </html>
+
+
+home.html
+
+<!DOCTYPE html>
+<html>
+ <head>
+ <title>Homepage</title>
+ <style>
+ button
+ {
+ background-color:yellow;
+ display:block;
+ margin:20px;
+ font-size: 16px;
+ padding: 15px 32px;
+ text-align: center;
+ }
+ </style>
+ </head>
+ <body bgcolor="skyblue", align="center">
+ <br><br><br><br><br><br><br><br><br><center><button type="button" class="button"><a href="">HOME</a></button></center>
+ <center><button type="button" class="button"><a href="signup.html">SIGNUP</a></button></center>
+ <center><button type="button" class="button"><a href="login.html">LOGIN</a></button></center>
+ </body>
+</html>
