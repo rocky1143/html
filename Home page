@@ -1,0 +1,163 @@
+Home page
+<html>
+<head>
+<title>Homepage</title>
+</head>
+<body bgcolor="pink">
+<h1 align="center" ><font color="white"> FLIPKART</font></h1>
+<h1 align="right"><a href="ab.html"> AboutUs </a>&nbsp<a href="se.html"> Services </a>&nbsp
+<a href="cu.html"> Contact Us </a></h1>
+<hr>
+<center>
+<img src="data:image/
+png;base64,iVBORw0KGgoAAAANSUhEUgAAAQMAAADCCAMAAAB6zFdcAAABQVBMVEX///8Qe9T
+45CoAc9L9zQkAeNP63B771xcAdtMAcdH35yv9ywD72Rr44yj5zQD5zxj+5Jv//
+fT86qP36Urj8Pr53yL30Xf/0gDr8/
+sAddv765L81BL2vxbzmwAAbND1+v2fwOn1sw+wzu681vHZ6Pf/2AD84YiCseQVf9Uridh1quL56H6
+jxuvU5fZkod/L3/
+SdpnJJlNzFsCj1thHzpAr0qwz65ID/5RqKt+ZWmt04jNn/3QDQv0379Mv97Kv8+uf83WL3xDHfvyL
+2vz3rxx64pCjPtiX46HH888D56WP423342oX36kT+
++d778qj26Yjo0iHXvhLr1lG7vl6Wpn+Gn4XQyU14mpEjer6fr37iyibf0Txbi5+wtWRDgKY0hL9XkK9
+wnJUAadlGib2wtGGusXNtmZ/gxj3Ht1AAaL7j26/
+svGlbAAAJl0lEQVR4nO2bDVsaSRLHB9qBGRS5WWGBmGMQcBkIiqPnIhLNXk4Rc0nWrDEvZrPJJ
+mvc2+//
+Aa6runveGHLnk1Gfx6d+KjDTM9D176qu6g7RNIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgCIIgC
+IIgCIIgCIIgCIIgCIIgiG9l77v/h/1Ht93Pa8P6oTDPmZtbnM3cHF7y0+S2O3tN7G2h/XOFr4I63P/
+nbXf2mtjb3uYSoKHjzRjrH28+lirc3/7XbXf2mthbKS0Iaw8OD8Hc+wH44eahVGYuXbirGnyXy0kN
+CuMx2L21tSLY2oJD5QeFQj6XvpPTonWUy+Wy0kgQYGVle/
+sfgu3t7ZUt4QxSg1xu/7Y7nDyTdA404FN/YXH+/
+v0Vbv7fg3AhuAzzhWXIDqDB4Ni67T4nzdHRA86PyJMn38fz5N/igh/
+h2qO75gnWUoinS3GEzz69d9udThgrFyR/9DQXw4N06PBua7Bq78dI8FTbH9xpDUJDXLInMRos2Z
+O7rUE+HWBgPRukpzi27wWvSkqDYoiKPFWRrf1G0555a4VfmEwngIgGEzudjyiQHjzXjoMn88los
+F4zg9T6mrbDT9V60Gh3TGamZonQh+uGifQCCGuQP9Ym046gPQqdS0gDPRWCNTStw88ZbWhsM37
+KbM64dcdIpfROIr0ArHw+jT9IerCv/TzIhxhMtAfymjQ+DBLRoGJGNGgJWRj6QQdfztJgyFv19St/
+ZNF13bi7rHzE4mcREXgk/
+BVWJRkN+qiBbihMWyvC4LM+tIIGuj4rFtBfdq78kW2m67XW9Hmr5NkmXp080vaWBgM8KA0GS3v
+asxPVlqQGPTBY77YVfMz7cMrAya7JTOb0Z9xq6zJ2rogDt1Wmz1slj7x4HPNSeO/B0/
+xgkF96sKfZz19AAz8E4GUyGnQNMDg00iiLI15X1mIGTNICF2JrV/1EvM2JaQhooBj/
+MtFsW7P40sjWJr+8ALNL704vXp69fTVITAOI6UiP2jDV7eJLu1IRA6aeW416T/
+lFAydMW7V7Otr9Rq/eazTX1FirthZMLDbOpG7g+q9oUBq/KB0/n0z2JveO8y/
+G3OhXr99w32SsWn07SEoDnA3c0CkXJoEudprPEwwaG6Zh1nmUuIwZzHSFcXXDk2/
+IDF2mj1Y3xbvI72NMd4ZwZccwUvx5zWW1Bj8QiUg39Gg4xGlQOt8cn2QymZOT8eZ5afDuV1Pen
+9KdpPzABscUedAD4tWowyuICj2lobfwBNA1Zf8dHMN10ArLAxEVmEnaphHIMmZPNJpr2g6/
+mTVafhoyo1EWqwFXYXx4eLg5Ps+UBu/1wJtXX2VKmSQ0EPNfL3iqYnj50IuKXdBgnamPF6LtemV
+EF7QxYRZ1WSoIvE2TQcbtYuC0mr4GLNoXi9vEf+CBA88lcSh/B29DeRyCYZSEBg0/DyrWmCwT/
+KjADKCDyabp9d9WJZW2hs4E0SNkYqaTEu4AY40hM8QGU2vVxEjyAnOqRLAyQgRUQPzJJ2wYXZi
+heo6djTKJaLCDXepI6p4soiZwpJO05OiynUrfQRP4+BbBchPSwi4mSe4GOMq6AysMG02Ht0EngT
+/DXFefqBcr08nRynyVV74XGFXgNCENhjLCBY6SRVTAFV06SVNogP4iPKcnDYY8LwpqiCcHk4w/
+Y6o4wn47dSw5QBKZda6kweg35QWG8fvFn6/enYwyyWjgBL1L5Ae/
+AhZRUZTuLNcNKAxUh6qM6JnqVqGKrKy76m3ERzA17w69mfRKGoxOa0qCD+9Go5E8m4QGZsALd
+BP76VfAIio0kQF4IOAdtiM1QB/vtDt4EQ4+Jgq1hlJvU2TevIGkUrMKbCuzMBvPDXQ9M/
+LPJqBBS4xhVwKG2P4yyYsKN+C/
+YirsiZPcHHzUsVp0guYZ0vJI5rFZalaBbX1FgoV3ajaoXvgSLKwmoAEGuhlKCzj/
+iQpYRYUdHEkvdQaCyBBRwgKh0FIzZrDy1mQOYbEFOGiQjRUguzDaUEnXCDYkoQFO0iy0F4SyiAVE
+
+yJ3NtaBsFWExJkylTyuYZ3GyNSqhyhvA+DJiVkzKD0CFbFapwV/
+h7+iLDAXj4ygr2vlTIhpgoIf3ifwK2IsKMdfZ/
+i2QQPpiwSkyH06mawENcKJMeXHU9d6+PXvfxVqQBscw+iA1YGergdOrP3y7BrvTiarrV8Bq+NGd
+U6JZGFqXA5pS82VLXS+KbJFMUZrQJCElDK9PAhrMZMGbDt4nrQEOYrhg2/
+U6iYYwOyiLVsESAE7igLpyEwZLZgwZVFTWE3A2UHkjHX22H0xZvqoYPfQ0OB/x42x2OQt/
+CWiApV4kUWE613t2ICowtju95lpzB+MfpB+GSHyv3erMWwMZYchewQqb0TkN7cdWqL4Gixnl5f
+hDww/uTy92BBcqOkgpeMhV0Bc9+0a9KcTlS1MMncD60JZ5ZgmM4SVymB0/
+J6XDtrYrDOYSh2ZcBr+FCskFrnUqE1vyltglyB7+vtv1U+farBTwGCLz18pwLZf7WxVXvjtGvSg05E
+1rChtwV3VurASWQu6YJHtWY7NqJW/P2t2IRxgP27H32RAunL1a05vUgY0WEY3eP/
+yc2TXW2L8KjUof7sGsLups3Bvmrg6g7GG+tFUVY4aBaaL0GnVdLUzug7vgjY1aqJu4v7RMHXceY
+BGI1AaF5nQWJ/
+ujbUcplA42GDxGrxOzg9a7nDo1iMnmx2DGR2eDuqu6w5tlQFgd4il3LpK7V3eKtYAsFfuCmX6u/
+xep83H3x66LsR8HxqDRVhrqDNDd2P26yMaXP5x9vFDvB9UL5LzgxlUiqEaBjPA0C62WsXZ/
++zm3fu/L7KL8ZcIDcqc1VX+sFwuFM47cSLoxkH5ujWIMAxXOdeGVV5cXDx/
+ePp+4+zLx88f3jhG9VNV4Ckhdg4uyvLrmjemgb+/
+eL2gBotlhM8FBwfnl5eXD4FLtWg0PsLhuZLgxjSw1QrwurHKgS/klqUYgjcqJ73EQ/
++yG9LgKyu9ZBEazOEvPs3JV+XHKj1U/
+yjLdnnVDWkQrXKuDYtbHUv5T0+Dx5GmG9KgX2NJfstgNrM12JCFle5EWuZvak7kSfEGIoFrMEOC
+ufIXpcHn8i1pcGMU5mdooEol43VUg7v2HU1tMh/P4n+Y+HJEdWMu3HJw211Onmd/i2W/
+rvgr3HBX/
+ycLQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQR
+AEQdxh/gtcSUZ8GcEbxAAAAABJRU5ErkJggg==" width="500"></img>
+</body>
+</html>
+About us
+ABOUT US
+<html>
+<head>
+<title>
+aboutus
+</title>
+</head>
+<body align="center" bgcolor="pink">
+<h1><font color="blue"><u>About Us</u></font></h1>
+<h3> <p>Flipkart.com is a well-known shopping portal in India and abroad. They offer different
+products on their website. Customers can choose any of the product and can buy them anytime.
+They are having their corporate ofce in Bangalore city of Karnataka and this article can help
+people who want to contact the Flipkart.com’s head / corporate ofce.<br>
+Please note, as per the ofcial website of Flipkart. They don’t stock any product in their head
+ofce, which is listed on the ofcial site.<br>Flipkart is an e-commerce company founded in 2007
+by Sachin Bansal and Binny Bansal. The company owns and operates an online shopping
+website in India. Flipkart, registered in Singapore, has also launched its own product range under
+the name "DigiFlip" with products including tablets, USBs, and laptop bags.<br>
+Lowest cost of doing business: Flipkart's online marketplace allows you to reap the benefts of
+
+sales without limitations since your cost of doing business on Flipkart is lower than other e-
+commerce portals. Whether you are a manufacturer, a vendor, or a supplier, you can become a
+
+top seller with minimal investment!</p></h3>
+</body>
+</html>
+Our services
+
+SERVICES
+<html>
+<head>
+<title>
+service</title>
+</head>
+<body bgcolor="pink" align="center">
+<h1><li align='center' style="color:"><u> Our Services</u></h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?
+q=tbn:ANd9GcS53ESjjr6FnfPKWxBZLVI0PKWzBDxSbm_1Rg&usqp=CAU" width="400"
+height="200">
+</img>
+<h3><i>
+<li>Flipkart Plus....</li>
+<li>No Cost EMI....</li>
+<li>EMI on Debit Cards....</li>
+<li>Mobile Exchange Offers....</li>
+<li>Mobile Phones....</li>
+<li>Electronic Devices and Accessories....</li>
+<li>Large Appliances....</li>
+<li>Small Home Appliances.</li></i>
+</body>
+</html>
+Contact us
+CONTACT US
+<html>
+<head>
+<title>
+contactus
+</title>
+</head>
+<body align ="center" bgcolor="pink">
+<h1><i><b><u>Contact Us</i></b></u></h1>
+<img src="https://image.cnbcfm.com/api/v1/image/106909380-1626086056746-
+gettyimages-1233327882-PGONCHAR_W6761.jpeg?v=1626086849 width"500" height="200">
+</img>
+<br>
+<h2><b>Bengaluru (headOfce)<b>
+<br>
+<hr/>
+Flipkart.Com Corporate Ofce Address: <br>Flipkart Internet Private Limited Vaishnavi Summit,
+No 6/B, 7th Main, 80 Feet Road, 3rd Block, Koramangala,<br> Bangalore – 560034 India<br>
+Flipkart.Com Corporate Ofce Phone Number: 0124-6150000<br>
+Flipkart.Com Corporate Ofce Toll-Free Number: 180 0 208 9898<br>
+Flipkart.Com Corporate Ofce Fax Number: N/A<br>
+Flipkart.com Ofcial Email Id’s<br>
+For Publisher/Distributor/Author inquiries: vendor@fipkart.com<br>
+For e-Gift Voucher Queries: egvmarketing@fipkart.com<br>
+For Other Business Queries: business@fipkart.com<br>
+For Afliates related Queries: afliate@fipkart.com<br>
+For Customers Support: cs@fipkart.com<br>
+
+Ofcial Website: www.fipkart.com
+<br>
+</body>
+</html>
