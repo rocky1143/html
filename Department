@@ -1,0 +1,120 @@
+Homepage.html
+<html>
+<head>
+<title>GPREC</title>
+</head>
+<style>
+.nav-1{
+float:right;
+margin-right:20px;
+padding:20px;
+}
+.img1 span{
+margin-top:10px;
+}
+</style>
+<div align="left" style="background-color:#0e044a";>
+<center style="margin:15px; color:#e8933f"><h2>G PULLA REDDY ENGINEERING
+COLLEGE<br>(AUTONOMOUS)</h2></center>
+<span class=img1>
+<img src="https://www.gprec.ac.in/wp-content/uploads/2019/05/gprec_logo1.png"></span>
+<nav class=nav-1>
+&emsp;&emsp;&emsp;&emsp;<a href="Homepage.html" style="color:#e8933f";>Home</a>
+&emsp;&emsp;&emsp;&emsp;<a href="Department.html"
+style="color:#e8933f";>Department</a>
+</nav>
+</div>
+
+<img src="https://getmyuni.azureedge.net/college-image/big/g-pulla-reddy-engineering-college-
+gprec-kurnool.jpg" height="600" width="2000">
+
+</html>
+Department.html
+<html>
+<head>
+<title>Department</title>
+</head>
+<style>
+li{
+cursor: pointer;
+margin: 15px 0;
+}
+</style>
+<body style="background-color:#D6DBDF">
+<div style="background-color:black; color:white;"
+align="center"><h2>DEPARTMENTS</h2></div>
+<div align="center">
+
+<img src="https://image.shutterstock.com/image-vector/cse-letter-logo-design-on-600w-
+2147355281.jpg" height="300" width="300" ><br>
+
+<a href="CSE.html" align="center">Computer Science Engineering (CSE)</a>
+<br>
+<br>
+<img
+src="https://t3.ftcdn.net/jpg/04/86/82/28/360_F_486822850_LuRvPvSCbqYIP2eKjLZCUxCryt7
+B7rH1.jpg" height="300" width="300"><br>
+<a href="ece.html">Electronics & Communication Engineering(ECE)</a>
+<br>
+<br>
+<img
+src="https://t3.ftcdn.net/jpg/04/53/22/52/360_F_453225271_anyVDs3NGSeqzmBdu6toP683raH
+ytot5.jpg" height="300" width="300"><br>
+<a href="eee.html">Electrtical and Electronics Engineering(EEE)</a>
+<br>
+<br>
+<img
+src="https://t4.ftcdn.net/jpg/03/10/18/01/360_F_310180186_1ja8bloz2MCMdvcoCPreJd94fcDh
+BkO2.jpg" height="300" width="300"><br>
+<a href=ce.html">Civil Engineering(CE)</a>
+<br>
+<br>
+<img
+src="https://t3.ftcdn.net/jpg/03/77/61/74/360_F_377617489_DRseL6RtjouRyVb5mjlYPy0L9qm
+mr9Bv.jpg" height="300" width="300"><br>
+<a href="me.html">Mechanical Engineering(ME)</a>
+<br>
+<br>
+</div>
+</body>
+</html>
+
+CSE.html
+<html>
+<head>
+<title>Computer Science Engineering</title>
+</head>
+<h2 style="color:Black; background-color:#73C6B6 " align="center" > CSE Department </h2>
+<div align="center">
+<img src="https://i.pinimg.com/originals/88/4f/c4/884fc4a9e9431fa0cf6107381ee57997.jpg"
+height="400" width="700">
+<h2 style="color:Black; background-color:#73C6B6 " align="center" > Subjects </h2>
+<p><b>C Language</b><br><br>
+<b>Java</b><br><br>
+<b>Python</b><br><br>
+<b>Data Structures & algorithms</b><br><br>
+<b>Database</b></br>
+</p>
+<h2 style="color:Black; background-color:#73C6B6 " align="center" > Tutorials </h2>
+<h2> C Language </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rLf3jnHxSmU"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2> Java </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHbSopMyc4M"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2> Python </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7ZGCaetZmzQ"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2> Data Structures & Algorithms</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xLetJpcjHS0"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<h2> Database </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Iu45VZGQDk"
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
+encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+</html>
